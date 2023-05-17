@@ -1,6 +1,8 @@
 //
 //File: gradient_container.dart
 //
+//IMPORTANT NOTE: As this file functions were called within "StatelessWidget", so The 
+//movement of Dice on click of the button will not work. 
 
 import 'package:flutter/material.dart';
 
